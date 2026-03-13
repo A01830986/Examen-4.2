@@ -1,4 +1,10 @@
 # Examen-4.2
+
+Unai Para Manchado
+Mikel Para Manchado
+Iñigo González Olarte
+Bruno Rubio García
+
 PuzzleBot Real Motor Control with ESP8266 and ROS2
 
 This project implements real-time velocity control of two DC motors with encoders using an ESP8266 microcontroller and ROS 2 (Humble).
