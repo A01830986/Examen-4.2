@@ -1,9 +1,10 @@
 # Examen-4.2
 
-Unai Para Manchado
-Mikel Para Manchado
-Iñigo González Olarte
-Bruno Rubio García
+## 👥 Equipo
+* Bruno Rubio García
+* Unai Para Manchado
+* Mikel Para Manchado
+* Iñigo González Olarte
 
 PuzzleBot Real Motor Control with ESP8266 and ROS2
 
